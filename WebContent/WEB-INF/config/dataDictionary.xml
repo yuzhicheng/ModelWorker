@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<content>
+	<object name="隶属公会">
+		<item>省总工会</item>
+		<item>市州总工会</item>
+		<item>省产业局</item>
+		<item>企业集团公会</item>
+	</object>
+	<object name="先进个人荣誉称号">
+		<item>全国劳模</item>
+		<item>四川省劳模全国五一劳动奖章</item>
+		<item>四川省五一劳动奖章</item>
+		<item>其他荣誉称号</item>
+	</object>
+	<object name="先进集体荣誉称号">
+		<item>全国五一劳动奖章单位</item>
+		<item>四川省五一劳动奖章单位</item>
+		<item>全国工人先锋号</item>
+		<item>四川省工人先锋号</item>
+		<item>企业工人先锋号</item>
+		<item>全国先进生产单位</item>
+		<item>省先进生产单位</item>
+	</object>
+	<object name="享受待遇">
+		<item>享受全国劳动模范待遇</item>
+		<item>享受省、部级劳动模范待遇</item>
+		<item>不能享受全国劳动模范待遇</item>
+		<item>不能享受省、部级劳动模范待遇</item>
+	</object>
+	<object name="个人状态">
+		<item>在职</item>
+		<item>退休</item>
+		<item>死亡</item>
+	</object>
+	<object name="认定状态">
+		<item>新上报</item>
+		<item>已认定</item>
+		<item>取消称号</item>
+	</object>
+	<object name="性别">
+		<item>男</item>
+		<item>女</item>
+	</object>
+	<object name="民族">
+		<item>汉族</item>
+		<item>壮族</item>
+		<item>满族</item>
+		<item>回族</item>
+		<item>苗族</item>
+		<item>维吾尔族</item>
+		<item>土家族</item>
+		<item>彝族</item>
+		<item>蒙古族</item>
+		<item>藏族</item>
+		<item>其他</item>
+	</object>
+</content>
